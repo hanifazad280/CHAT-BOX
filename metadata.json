@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Chat App",
+  "description": "A web application that mimics a popular messaging app's interface, using Gemini to generate conversational responses from contacts.",
+  "requestFramePermissions": []
+}
